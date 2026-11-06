@@ -118,26 +118,11 @@ A mobile application UI design project for a resort, focusing on a modern interf
 ## 📫 Connect With Me
 
 - **GitHub:** [Hiruni16](https://github.com/Hiruni16)
+- **LinkedIn:** [Hiruni Gunathilaka](https://www.linkedin.com/in/hiruni-gunathilaka/)
 - **Email:** c.hiruni.cg@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/hiruni-gunathilaka/
 
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
 
-Feel free to explore my repositories and projects.## Hi there 👋
-
-<!--
-**Hiruni16/Hiruni16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and projects.
